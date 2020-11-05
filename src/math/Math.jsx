@@ -8,7 +8,7 @@ const Math = () =>
       <Addition />
     </Route>
     <Route path="/math">
-      <Link to="/math/flash/addition">Addition flash cards</Link>
+      <Link to="math/flash/addition">Addition flash cards</Link>
     </Route>
   </Switch>
 
